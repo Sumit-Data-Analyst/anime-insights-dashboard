@@ -6,7 +6,7 @@ An interactive Power BI dashboard designed to visualize the global popularity an
 
 ## 🖼️ Project Snapshot
 
-https://github.com/Sumit-Data-Analyst/anime-insights-dashboard/blob/main/2.PNG
+![Anime Analysis Dashboard](https://github.com/Sumit-Data-Analyst/anime-insights-dashboard/blob/main/2.PNG)
 
 ---
 
@@ -57,15 +57,16 @@ To create a visually compelling dashboard that allows users to explore anime ana
 
 ## 📂 Project Structure
 
--📁 Anime-Insights-Dashboard
--📊 Dashboard.pbix # Power BI dashboard file
--📁 data # Raw and cleaned datasets
--📁 images # Screenshots for README/docs
--📄 README.md # Project documentation
+- 📁 Anime-Insights-Dashboard
+- 📊 Dashboard.pbix # Power BI dashboard file
+- 📁 data # Raw and cleaned datasets
+- 📁 images # Screenshots for README/docs
+- 📄 README.md # Project documentation
 
 ---
 
 ## 👤 Author
-Sumit Kumar
-📧 sumitkumar02269@gmail.com
 
+**Sumit Kumar**  
+📧 [sumitkumar02269@gmail.com](mailto:sumitkumar02269@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sumit-kumar-24b264330) 
