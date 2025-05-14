@@ -6,7 +6,7 @@ An interactive Power BI dashboard designed to visualize the global popularity an
 
 ## 🖼️ Project Snapshot
 
-(https://github.com/Sumit-Data-Analyst/anime-insights-dashboard/blob/main/2.PNG)
+https://github.com/Sumit-Data-Analyst/anime-insights-dashboard/blob/main/2.PNG
 
 ---
 
