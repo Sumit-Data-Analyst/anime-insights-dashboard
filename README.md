@@ -56,3 +56,16 @@ To create a visually compelling dashboard that allows users to explore anime ana
 ---
 
 ## 📂 Project Structure
+
+-📁 Anime-Insights-Dashboard
+-📊 Dashboard.pbix # Power BI dashboard file
+-📁 data # Raw and cleaned datasets
+-📁 images # Screenshots for README/docs
+-📄 README.md # Project documentation
+
+---
+
+## 👤 Author
+Sumit Kumar
+📧 sumitkumar02269@gmail.com
+
